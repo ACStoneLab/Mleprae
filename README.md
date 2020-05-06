@@ -1,2 +1,2 @@
 # Mleprae
-This respository is for the Pacific Mleprae project
+This respository is for the Pacific M. leprae project
